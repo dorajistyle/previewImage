@@ -18,7 +18,7 @@ IE8+, Firefox, Chrome.
 ## Usage
 
 ### HTML
-    <input id="fileupload" type="file" name="files[]">
+    <input id="fileupload" type="file" name="file">
     <div id="preview" class="preview">Preview</div>
 
 ### Javascript
