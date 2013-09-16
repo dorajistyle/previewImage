@@ -2,7 +2,7 @@
 
 ## previewImage
 
-It's a simple cross browser compatibility image preview module using [JQuery](http://jquery.com/).
+It's a simple cross browser compatibility image preview module before upload file using [JQuery](http://jquery.com/).
 You need Jquery 1.10+ to using this module. It supports AMD(requireJS) as well.
 
 ## Cross Browser compatibility
