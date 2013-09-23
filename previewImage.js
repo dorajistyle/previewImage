@@ -41,7 +41,6 @@
                         this.select();
                         src = encodeURI('file:///'+this.document.selection.createRangeCollection().item(0).text.replace(/\\/gi, '/'));
                     } else {
-                        utils.logObject('previewImage',this);
                         src =  encodeURI('file:///'+this.value.replace(/\\/gi, '/'));
                     }
                 }
